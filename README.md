@@ -10,23 +10,12 @@ objetivo de evaluar la función de captura de un Pokemon.
 
 ### Requisitos
 
-- Python3
-- pip3
-- [pipenv](https://pypi.org/project/pipenv/)
-
-### Instalación
-
-Parado en la carpeta del tp0 ejecutar
-
-```sh
-pipenv install
+```
+pip install -r requirements.txt
 ```
 
-para instalar las dependencias necesarias en el ambiente virtual
+### Notebooks previos
+En [.previous_notebooks](.previous_notebooks) se encuentran desarrollos preliminares del trabajo práctico.
 
-## Ejecución
-
-```
-pipenv run python main.py [config_file]
-```
-
+### Notebook Final
+En [TP0](TP0/TP0.ipynb) se encuentra el notebook con la respuesta a cada una de las preguntas guía del [enunciado](docs/SIA_TP0.pdf).
